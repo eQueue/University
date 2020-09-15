@@ -20,7 +20,7 @@
 		<!-- spring 5.2.3이 나오는 시점에 spring security는 5.2.2가 최신버전이라서 5.2.2.RELEASE로 
 			설정함 -->
 		<spring.version>5.2.2.RELEASE</spring.version>
-		<jackson.version>2.9.8</jackson.version>
+		<jackson.version>2.11.2</jackson.version>
 	</properties>
 
 	<dependencies>
