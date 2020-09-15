@@ -1,0 +1,7 @@
+Spring maven 설정
+pom.xml 설정
+web.xml 설정(dispathservelt config 설정)
+.settings/org.eclipse.wst.common.project.jacet.core --jst.web version 설정 (3.1) java version 확인
+
+maven-update project 시 target의 m2e-wtp 폴더의 내용이 사라지면 servlet의 handlermapping이 불가하게됨
+-project-build project 를 하면  다시 m2e-wtp 폴더의 내용이 생성된다.

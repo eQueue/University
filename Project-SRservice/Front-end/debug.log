@@ -1,0 +1,13 @@
+[0902/034936.976:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0902/034936.994:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
+[0902/034936.996:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0902/035536.453:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0902/035536.454:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0902/035536.458:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
+[0902/035536.459:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0902/035755.939:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0902/035755.950:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
+[0902/035755.952:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0902/040038.529:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0902/040038.542:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
+[0902/040038.544:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
