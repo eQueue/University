@@ -26,9 +26,9 @@ local.properties
 *.db
 
 #Back-end
-/server
-/Deploy
-/eclipse-problem
+server/
+Deploy/
+eclipse-problem/
 
 # External tool builders
 .externalToolBuilders/
