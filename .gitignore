@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,eclipse
 
+#Common
+*.log
+
 ### Eclipse ###
 .metadata
 bin/
@@ -22,6 +25,10 @@ local.properties
 *.ear
 *.db
 
+#Back-end
+/server
+/Deploy
+/eclipse-problem
 
 # External tool builders
 .externalToolBuilders/
