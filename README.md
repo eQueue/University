@@ -28,8 +28,8 @@
 ### 4. Result
 모델은 groundtruth값에 근접하도록 학습된다.
 <div align="center" "80%" height="5%">
-	<img src="./Project-SRservice/Document/train_result.png"/>
-	<img src="./Project-SRservice/Document/train_result2.png"/>
+	<img src="./Project-SRservice/Document/train_result.png" width="inherit"/>
+	<img src="./Project-SRservice/Document/train_result2.png" width="inherit"/>
 </div>
 
 
