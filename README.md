@@ -9,11 +9,20 @@
 예측 값과 실제 값의 차이가 클수록 평균제곱오차의 값도 커진다는 것은 이 값이 작을 수록 예측력이 좋다고 할 수 있다.
 
 #### 1-2 사용 옵티마이저(ADAM)
+손실함수를 최소화하기 위하여 파라미터를 조정해주는 도구
 
 ### 2. Preprocessing 
+학습 목적에 맞는 이미지로 사진을 crop 하여 전처리한다.
 
 ### 3. Train
 
+
 ### 4. Result
+모델은 groundtruth값에 근접하도록 학습된다.
 
 ### 5. Dependancy
+- Python3+
+- Keras 2.3
+- Tensorflow 2.3.0
+- OpenCV
+- Matplotlib
