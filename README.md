@@ -15,8 +15,9 @@
 손실함수를 최소화하기 위하여 파라미터를 조정해주는 도구
 <div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/Optimizer.JPG" width="inherit"/>
-	<img src="./Project-SRservice/Document/Adam_Optimizer.png" width="inherit"/>
+	<img src="./Project-SRservice/Document/Adam_Optimizer.png" width="50%"/>
 </div>
+
 ### 2. Preprocessing 
 학습 목적에 맞는 이미지로 사진을 crop 하여 전처리한다.
 
