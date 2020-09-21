@@ -14,7 +14,7 @@ class EmailSender:
         self.ss = smtplib.SMTP(host=str_host, port=num_port)
         # SMTP인증이 필요하면 아래 주석을 해제하세요.
         self.ss.starttls() # TLS(Transport Layer Security) 시작
-        self.ss.login('SmuHeapPop@gmail.com', 'glqgkq1@') # 메일서버에 연결한 계정과 비밀번호
+        self.ss.login('SmuHeapPop@gmail.com','glqgkq1@') 
     
     def send_message(self, emailContent, str_from_email_addr, str_to_eamil_addrs):
         """e메일을 발송한다 """
