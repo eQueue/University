@@ -1,6 +1,6 @@
 # Image_Resolution_Improving_with_CNN
 ### 1. CNN Architecture
-<div align="center" width="60%" height="5%">
+<div align="center" width="80%" height="5%">
 	<img src="./Project-SRservice/Document/CNN layer.JPG"/>
 </div>
 
@@ -17,7 +17,7 @@
 ### 2. Preprocessing 
 학습 목적에 맞는 이미지로 사진을 crop 하여 전처리한다.
 
-<div align="center">
+<div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/train_image.png"/>
 	<img src="./Project-SRservice/Document/preprocessing_image.png"/>
 </div>
@@ -27,10 +27,10 @@
 
 ### 4. Result
 모델은 groundtruth값에 근접하도록 학습된다.
-<div align="center">
+<div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/train_result.png"/>
 </div>
-<div align="center">
+<div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/train_result2.png"/>
 </div>
 
