@@ -16,7 +16,10 @@
 
 ### 2. Preprocessing 
 학습 목적에 맞는 이미지로 사진을 crop 하여 전처리한다.
-
+<div align="center">
+	<img src="./Project-SRservice/Document/train_image.png"/>
+	<img src="./Project-SRservice/Document/preprocessing_image.png"/>
+</div>
 ### 3. Train
 
 
