@@ -1,7 +1,7 @@
 # Image_Resolution_Improving_with_CNN
 ### 1. CNN Architecture
 <div align="center">
-	<img src="./Project-SRservice/Document/CNN layer.JPG"/>
+	<img src="./Project-SRservice/Document/CNN layer.JPG" width="80%" height="50%"/>
 </div>
 
 #### 1-1 사용 손실함수(Mean Squared Error, MSE)
@@ -33,6 +33,7 @@
 <div align="center">
 	<img src="./Project-SRservice/Document/train_result2.png"/>
 </div>
+
 ### 5. Dependancy
 - Python3+
 - Keras 2.3
