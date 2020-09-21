@@ -1,7 +1,7 @@
 # Image_Resolution_Improving_with_CNN
 ### 1. CNN Architecture
 <div align="center">
-	<img src="./Project-SRservice/Document/CNN layer.jpg" width="80%" height="10%"/>
+	<img src="./Project-SRservice/Document/CNN layer.JPG"/>
 </div>
 
 #### 1-1 사용 손실함수(Mean Squared Error, MSE)
