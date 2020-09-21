@@ -1,5 +1,8 @@
 # Image_Resolution_Improving_with_CNN
 ### 1. CNN Architecture
+<div align="center">
+	<img src="./Project-SRservice/Document/CNN layer.jpg" width="80%" height="10%"/>
+</div>
 
 #### 1-1 사용 손실함수(Mean Squared Error, MSE)
 손실 함수는 실제값과 예측값의 차이(loss, cost)를 수치화해주는 함수이다.
