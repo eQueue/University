@@ -29,10 +29,9 @@
 모델은 groundtruth값에 근접하도록 학습된다.
 <div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/train_result.png"/>
-</div>
-<div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/train_result2.png"/>
 </div>
+
 
 ### 5. Dependancy
 - Python3+
