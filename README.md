@@ -12,9 +12,13 @@
 예측 값과 실제 값의 차이가 클수록 평균제곱오차의 값도 커진다는 것은 이 값이 작을 수록 예측력이 좋다고 할 수 있다.
 
 #### 1-2 사용 옵티마이저(ADAM)
-손실함수를 최소화하기 위하여 파라미터를 조정해주는 도구
 <div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/Optimizer.JPG" width="inherit"/>
+
+</div>
+
+손실함수를 최소화하기 위하여 파라미터를 조정해주는 도구
+<div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/Adam_Optimizer.png" width="50%"/>
 </div>
 
