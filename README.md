@@ -43,6 +43,7 @@
 ### 4. Result
 <div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/test_result1.png" width="inherit"/>
+	<img src="./Project-SRservice/Document/test_result2.png" width="inherit"/>
 </div>
 
 
