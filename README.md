@@ -39,7 +39,7 @@
 
 - input 화질과 크기의 사진이 주어졌을 시, output 정도의 사진이 출력된다.
 - 본 프로젝트는 표지판과 번호판만을 대상으로 학습한 모델이므로, 해당 종류의 사진에 대해서만 차이를 얻을 수 있다.
-       
+  
 ### 4. Result
 <div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/test_result1.png" width="inherit"/>
