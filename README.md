@@ -24,7 +24,7 @@
 
 ### 2. Preprocessing 
 학습 목적에 맞는 이미지로 사진을 crop 하여 전처리한다.
-(배열값으로 치환)
+(배열값으로 치환.)
 
 <div align="center" "80%" height="5%">
 	<img src="./Project-SRservice/Document/train_image.png"/>
