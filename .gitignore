@@ -2,6 +2,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,eclipse
 
+
+Project-SRservice/Train
+
+
+
 #Common
 *.log
 
